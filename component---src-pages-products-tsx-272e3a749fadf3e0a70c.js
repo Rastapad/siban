@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{nPCk:function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),r=t("4Qsy"),s=t("AzR7"),c=t("6/os");a.default=function(){var e=Object(c.a)().formatMessage;return n.createElement(r.a,{template:"page"},n.createElement("div",{className:"inner "},n.createElement("header",{className:"site-archive-header"},n.createElement("h1",{className:"site-title  no-image"},e("general.products"))),n.createElement(s.a,null)))}}}]);
+//# sourceMappingURL=component---src-pages-products-tsx-272e3a749fadf3e0a70c.js.map
